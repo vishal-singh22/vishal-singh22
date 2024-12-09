@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m a tech enthusiast and final-year B.Tech student with
 
 I’m always open to discussing ideas and connecting with like-minded people! Reach out to me here:
 
-- **Email**: [vishalsing2205@gmail.com](mailto:vishalsing2205@gmail.com)
+- **Email**: [vishalsing2205@gmail.com](mailto:vi.sing9703@gmail.com)
 - **LinkedIn**: [Vishal Singh](https://www.linkedin.com/in/vishal-singh40/)
 
 Thanks for visiting, and let’s build something amazing together! 🚀

@@ -24,26 +24,29 @@ Welcome to my GitHub! I’m a **tech enthusiast** and final-year **B.Tech studen
 
 ## 🚀 **Projects I'm Working On**
 
-### 1️⃣ **[Movie Recommendation System](#)**  
+### 1️⃣ **[Movie Recommendation System](https://github.com/vishal-singh22/recommand-system)**  
 A recommendation engine that personalizes movie suggestions based on user interests.
 
 - 🎯 Built with **Python, Scikit-Learn, Pandas**
 - 📊 Implements **Collaborative Filtering** for recommendations.
 - 🚀 Deployed on **Flask** with **interactive UI**.
 
-### 2️⃣ **[Customer Segmentation Analysis](#)**  
-Identifying unique customer groups to target business strategies effectively.
+### 2️⃣ **[Power BI Dashboard](https://github.com/vishal-singh22/Dashboard)**  
+An interactive Power BI dashboard for visualizing business and customer insights.
 
-- 💡 Used **Clustering Algorithms** like K-Means.
-- 🛠️ Conducted **EDA and Visualization** with Power BI.
-- 📂 Integrated with **real-world datasets** for insights.
+- 📊 Visualizes **KPIs and metrics** for real-time decision-making.
+- 📂 Integrated **SQL databases** for data extraction.
+- 💡 Includes **interactive slicers** for filtering insights dynamically.
+- 🚀 Automates data updates using **Power Query**.
 
 ### 3️⃣ **[Blockchain Applications](#)**  
-Exploring decentralized solutions for secure data handling and transactions.
+Currently, I am exploring and learning blockchain technology with a focus on its core concepts and real-world applications.  
 
-- 🔗 Developed **smart contracts** with Solidity.
-- 🌐 Worked on **Ethereum-based platforms**.
-- 🚀 Designed a **demo platform for transaction tracking**.
+- 🔍 Researching **consensus algorithms** such as the **Raft Algorithm** for fault-tolerant distributed systems.  
+- 📄 Reading foundational papers, including the **Hyperledger Fabric whitepaper**, to understand modular blockchain frameworks.  
+- 🌐 Exploring topics like **smart contracts**, **decentralized identity**, and **secure data sharing**.  
+- 🔗 Diving into tools and platforms such as **Hyperledger Fabric** and **Ethereum** to get hands-on experience.  
+- 🚀 Keen on leveraging blockchain's potential for building secure, decentralized solutions in the future.
 
 ---
 
@@ -60,26 +63,6 @@ I’m always open to collaboration and discussions! Let’s connect:
 
 - 📧 **Email**: [vi.sing9703@gmail.com](mailto:vi.sing9703@gmail.com)  
 - 🔗 **LinkedIn**: [Vishal Singh](https://www.linkedin.com/in/vishal-singh40/)  
-- 🖥️ **Portfolio**: [Coming Soon](#)
 
 ---
 
-## 📂 **GitHub Repository Structure**
-
-```plaintext
-├── data/
-│   ├── flight_data.csv        # Dataset used for training and testing
-│   ├── processed_data.csv     # Cleaned and preprocessed dataset
-│
-├── notebooks/
-│   ├── data_analysis.ipynb    # Exploratory Data Analysis (EDA)
-│   ├── model_training.ipynb   # Model training and evaluation
-│   ├── sagemaker_deployment.ipynb  # Deploying the model on SageMaker
-│
-├── outputs/
-│   ├── analysis_report.html   # HTML report of EDA and predictions
-│   ├── model_metrics.json     # Model performance metrics
-│
-├── requirements.txt           # Required Python packages
-├── README.md                  # Project documentation
-└── run.sh                     # Script to run the full pipeline

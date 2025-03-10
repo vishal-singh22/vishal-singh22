@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a **tech enthusiast** and final-year **B.Tech studen
 
 ## 🚀 **Projects I'm Working On**
 
-### 1️⃣ **[Movie Recommendation System](https://github.com/vishal-singh22/recommand-system)**  
+### 1️⃣ **[Movie Recommendation System](https://github.com/vishal-singh22/Movie_Recommendation)**  
 A recommendation engine that personalizes movie suggestions based on user interests.
 
 - 🎯 Built with **Python, Scikit-Learn, Pandas**

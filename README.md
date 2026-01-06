@@ -93,15 +93,16 @@ class VishalSingh:
 
 ---
 
-### 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </div>
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-singh22&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-singh22&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-singh22&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 ---

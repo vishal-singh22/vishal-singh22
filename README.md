@@ -96,33 +96,31 @@ class VishalSingh:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-singh22&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-singh22&theme=tokyonight" alt="Profile Summary"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-singh22&theme=tokyonight" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🎮 GitHub Snake Game
+**Watch my contributions get eaten by the snake!**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  
+![Snake Game](https://github.com/vishal-singh22/vishal-singh22/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 
 ---
 
-### 🎵 Currently Vibing To
+### 🎵 Currently Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k6eo6mxkia7gdshsl576l54ycm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31k6eo6mxkia7gdshsl576l54ycm&redirect=true)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vishal-singh22)
 
 ---
 
@@ -140,7 +138,7 @@ class VishalSingh:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishal-singh22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishal-singh22&theme=discord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -148,11 +146,7 @@ class VishalSingh:
 
 ### 📈 Contribution Graph
 
-<div align="center">
-
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-singh22&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-singh22&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

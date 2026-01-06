@@ -107,7 +107,7 @@ class VishalSingh:
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake-dark.svg">

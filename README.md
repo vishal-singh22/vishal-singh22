@@ -1,186 +1,196 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm **Vishal Singh**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Vishal%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20AI%20that%20solves%20real%20problems&descSize=20&descAlignY=58" alt="header"/>
+</p>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Building+Intelligent+Systems;Deploying+Real-World+AI+Solutions;Computer+Vision+Expert;LLM+%26+Chatbot+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/vishal-singh22">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38D5FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;LLM+%26+Chatbot+Developer;Computer+Vision+Expert+(YOLO+%7C+OpenCV);I+train+models+and+ship+them+to+production;Currently+building+AI+Agents+%F0%9F%A4%96" alt="Typing SVG"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishal-singh22&label=Profile%20views&color=8b7bff&style=for-the-badge" alt="views"/>
+  <a href="https://github.com/vishal-singh22?tab=followers"><img src="https://img.shields.io/github/followers/vishal-singh22?label=Followers&style=for-the-badge&color=38d5ff&labelColor=0d1117" alt="followers"/></a>
+  <a href="https://github.com/vishal-singh22?tab=repositories"><img src="https://img.shields.io/github/stars/vishal-singh22?label=Stars&style=for-the-badge&color=ffb454&labelColor=0d1117" alt="stars"/></a>
+</p>
+
+<p align="center">
+  <a href="https://vishalsingh-ai.com"><img src="https://img.shields.io/badge/Portfolio-8b7bff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vishal-singh40"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vi.sing9703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/VishalSing1976"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## 🧠 `whoami`
 
-### 🚀 About Me
 ```python
 class VishalSingh:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "India 🇮🇳"
-        self.languages = ["Python", "JavaScript", "SQL", "C++"]
-        self.current_focus = ["LLMs", "Computer Vision", "AI Agents"]
-        self.passion = "Building AI that solves real problems"
-    
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "🧠 Train AI Models", 
-            "🚀 Deploy to Production",
-            "🎯 Optimize Performance",
-            "📚 Learn New Tech"
-        ]
+    role       = "AI/ML Engineer"
+    location   = "India 🇮🇳"
+    languages  = ["Python", "JavaScript", "SQL", "C++"]
+    focus      = ["LLMs", "Computer Vision", "AI Agents"]
+    mission    = "Build AI that solves real problems"
+
+    def daily_loop(self):
+        while True:
+            coffee(); code(); train_model(); deploy(); repeat()
 ```
 
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
-| **AI/ML** | **Backend** | **Frontend** | **Cloud & DevOps** |
-|-----------|-------------|--------------|-------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
-| ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
-</div>
+- 🔭 Working on **LLM apps, RAG pipelines and AI agents**
+- 👁️ Shipping **real-time computer vision** with YOLOv8 + OpenCV
+- ☁️ Deploying on **AWS, Docker, Linux**
+- 🤝 Open to **freelance projects and full-time roles**
 
 ---
 
-### 🎯 What I Build
+## 🛠️ Tech Arsenal
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,opencv,fastapi,flask,react,postgres,mongodb,aws,docker,linux,git,html,css&perline=8" alt="skills"/>
+</p>
 
-```ascii
-    🧠 AI/ML Projects
-    ┌─────────────────────────────────────┐
-    │  🤖 LLM Chatbots & AI Agents       │
-    │  👁️ Computer Vision Systems        │
-    │  🗣️ Voice Assistants               │
-    │  📊 Data Analytics Platforms       │
-    │  ⚡ Real-time AI APIs              │
-    └─────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
+</p>
 
-</div>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 AI Interview Assistant
+Interview prep with **voice input, real-time feedback** and performance analytics.
+<br/><sub>`Gemini API` `Hugging Face` `Streamlit`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 VedyaBot
+Context-aware chatbot with **document upload** and SQL conversation history.
+<br/><sub>`LangChain` `OpenAI` `FastAPI` `PostgreSQL`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ YOLO Vision Suite
+**PPE compliance**, real-time bag detection and customer analytics.
+<br/><sub>`YOLOv8` `OpenCV` `AWS EC2`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 AI CRM Agent
+Auto lead follow-up, **smart scheduling** and loan eligibility checks.
+<br/><sub>`Python` `APIs` `Automation` `ML`</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vishal-singh22&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-singh22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🎮 Game Zone
+
+Take a break and **beat my high score**:
+
+<p align="center">
+  <a href="https://chromedino.com"><img src="https://img.shields.io/badge/🦖_Dino_Run-35495E?style=for-the-badge"/></a>
+  <a href="https://play2048.co"><img src="https://img.shields.io/badge/🔢_2048-EDC22E?style=for-the-badge&logoColor=black"/></a>
+  <a href="https://lichess.org"><img src="https://img.shields.io/badge/♟️_Play_Chess-000000?style=for-the-badge"/></a>
+  <a href="https://playtictactoe.org"><img src="https://img.shields.io/badge/❌⭕_Tic_Tac_Toe_vs_AI-8b7bff?style=for-the-badge"/></a>
+</p>
 
 <details>
-<summary>🔥 Featured Projects (Click to expand)</summary>
+<summary><b>🧩 Mini AI Quiz: click to test yourself</b></summary>
+<br/>
 
-### 🚀 **AI Interview Assistant**
-> **Tech Stack:** Gemini API, Hugging Face, Python, Streamlit
-- 🎯 AI-powered interview preparation system
-- 📊 Real-time feedback and performance analytics
-- 🔊 Voice-to-text integration for natural conversations
+**Q1.** Which algorithm is famous for real-time object detection in a *single pass*?
+<details><summary>👉 Reveal answer</summary>✅ <b>YOLO</b> (You Only Look Once)</details>
 
-### 🤖 **VedyaBot - Smart Chatbot**
-> **Tech Stack:** LangChain, OpenAI, FastAPI, PostgreSQL
-- 💬 Context-aware conversational AI
-- 📁 Document upload and processing
-- 🗄️ Conversation history with SQL database
+**Q2.** What does RAG stand for in LLM apps?
+<details><summary>👉 Reveal answer</summary>✅ <b>Retrieval-Augmented Generation</b></details>
 
-### 👁️ **YOLO Computer Vision Suite**
-> **Tech Stack:** YOLOv8, OpenCV, Python, AWS EC2
-- 🦺 PPE compliance monitoring system
-- 👜 Real-time bag detection for security
-- 👥 Customer behavior analytics
+**Q3.** Which metric is the standard for evaluating object detectors?
+<details><summary>👉 Reveal answer</summary>✅ <b>mAP</b> (mean Average Precision)</details>
 
-### 🏢 **AI CRM Agent**
-> **Tech Stack:** Python, APIs, Automation, ML
-- 📞 Automated lead follow-up system
-- 📅 Smart scheduling and appointment booking
-- 💰 AI-powered loan eligibility assessment
-
+**Score 3/3?** You should [email me](mailto:vi.sing9703@gmail.com) 😄
 </details>
 
 ---
 
-📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishal-singh22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-singh22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-singh22&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal-singh22&theme=tokyonight" alt="Profile Summary"/>
-</div>
+## 🎵 My Coding Playlist
+
+<p align="center">
+  <a href="https://open.spotify.com/user/vishal-singh22"><img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://www.youtube.com/results?search_query=lofi+coding+music"><img src="https://img.shields.io/badge/Lofi_Coding_Beats-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishal-singh22/vishal-singh22/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal-singh22&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true"/>
+</p>
 
 ---
 
-### 🎵 Currently Playing on Spotify
+## 💡 Dev Quote of the Moment
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/vishal-singh22)
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vishal-singh22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
----
-
-### 📈 Contribution Graph
-
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-singh22&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-singh40)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vi.sing9703@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/VishalSing1976)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://vishalsingh-ai.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💻 **"Building the Future, One Algorithm at a Time"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishal-singh22&color=blueviolet&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/vishal-singh22?label=Follow&style=for-the-badge&color=blue)](https://github.com/vishal-singh22)
-
-</div>
-
----
-
-<div align="center">
-
-```python
-while True:
-    code()
-    sleep(False)  # Who needs sleep when you're building AI? 🚀
-```
-
-**⭐ Star my repos if you find them interesting!**
-
-</div>
+<p align="center">
+  <b>⭐ Star my repos if you like them · 🤝 Let's build something smart together</b>
+</p>
